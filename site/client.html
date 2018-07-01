@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Chat</title>
+        <meta charset="utf-8">
+        <style>
+            body {
+                width: 400px;
+            }
+            pre {
+                height: 400px;
+                overflow: scroll;
+            }
+            form {
+                width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+
+        <pre id="chat-log"></pre>
+        <form id="message-form">
+            <input type="text" id="message-field" size=45>
+        </form>
+        <script>
+
+            var chat_log = document.getElementById("chat-log");
+            var message_form = document.getElementById("message-form");
+            var message_field = document.getElementById("message-field")
+            var server = new WebSocket("ws://<IP>/ws");
+
+            server.onmessage = (msg)=>{
+                chat_log.innerHTML = chat_log.innerHTML + msg.data;
+            }
+
+            message_form.onsubmit = (text) => {
+                server.send(message_field.value);
+                message_field.value = "";
+                return false;
+            }
+
+        </script>
+    </body>
+</html>
