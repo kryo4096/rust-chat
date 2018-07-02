@@ -1,0 +1,17 @@
+/home/jonas/Projects/rust-chat/target/debug/deps/libws-5f42c059a7fedfcb.rlib: /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/lib.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/result.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/connection.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/handler.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/factory.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/frame.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/message.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/handshake.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/protocol.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/communication.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/io.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/stream.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/util.rs
+
+/home/jonas/Projects/rust-chat/target/debug/deps/ws-5f42c059a7fedfcb.d: /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/lib.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/result.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/connection.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/handler.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/factory.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/frame.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/message.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/handshake.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/protocol.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/communication.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/io.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/stream.rs /home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/util.rs
+
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/lib.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/result.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/connection.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/handler.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/factory.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/frame.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/message.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/handshake.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/protocol.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/communication.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/io.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/stream.rs:
+/home/jonas/.cargo/registry/src/github.com-1ecc6299db9ec823/ws-0.7.6/src/util.rs:
